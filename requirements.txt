@@ -1,0 +1,5 @@
+icecream
+jupyter
+matplotlib
+numpy
+tensorflow

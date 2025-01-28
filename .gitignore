@@ -1,0 +1,14 @@
+# general
+/sandbox/
+memo*.md
+.env
+
+# os_dependent
+.DS_Store
+
+# dataset
+cifar-10-batches-py/
+
+# python
+venv/
+__pycache__
